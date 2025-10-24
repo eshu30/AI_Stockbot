@@ -1,0 +1,15 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Environment/Secrets (CRITICAL: Keeps your keys private)
+.env
+
+# Windows files
+Thumbs.db
+
+# Virtual Environment
+venv/
